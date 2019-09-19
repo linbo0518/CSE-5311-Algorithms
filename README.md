@@ -24,9 +24,12 @@ See [CLRS Textbook](Textbook/CLRS-Textbook.pdf)
 - [Lecture 2](Slides/Lecture-2.pdf)
 - [Lecture 3](Slides/Lecture-3.pdf)
 - [Lecture 4](Slides/Lecture-4.pdf)
+- [Lecture 5](Slides/Lecture-5.pdf)
+- [Lecture 6](Slides/Lecture-6.pdf)
 
 ## Assignments
 
 - [Assignments 1](Assignments/01/)
 - [Assignments 2](Assignments/02/)
 - [Assignments 3](Assignments/03/)
+- [Assignments 4](Assignments/04/)
