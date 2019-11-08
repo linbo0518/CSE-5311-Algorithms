@@ -33,6 +33,7 @@ See [CLRS Textbook](Textbook/CLRS-Textbook.pdf)
 - [Lecture 11](Slides/Lecture-11.pdf)
 - [Lecture 12](Slides/Lecture-12.pdf)
 - [Lecture 13](Slides/Lecture-13.pdf)
+- [Lecture 14](Slides/Lecture-14.pdf)
 
 ## Assignments
 
