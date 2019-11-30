@@ -20,6 +20,9 @@ See [CLRS Textbook](Textbook/CLRS-Textbook.pdf)
 
 ## Slides
 
+<details>
+<summary>Click to view</summary>
+
 - [Lecture 1](Slides/Lecture-1.pdf)
 - [Lecture 2](Slides/Lecture-2.pdf)
 - [Lecture 3](Slides/Lecture-3.pdf)
@@ -37,7 +40,12 @@ See [CLRS Textbook](Textbook/CLRS-Textbook.pdf)
 - [Lecture 15](Slides/Lecture-15.pdf)
 - [Lecture 16](Slides/Lecture-16.pdf)
 
+</details>
+
 ## Assignments
+
+<details>
+<summary>Click to view</summary>
 
 - [Assignments 1](Assignments/01/)
 - [Assignments 2](Assignments/02/)
@@ -47,3 +55,5 @@ See [CLRS Textbook](Textbook/CLRS-Textbook.pdf)
 - [Assignments 6](Assignments/06/)
 - [Assignments 7](Assignments/07/)
 - [Assignments 8](Assignments/08/)
+
+</details>
